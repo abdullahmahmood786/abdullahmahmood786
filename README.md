@@ -12,7 +12,7 @@
 
 ## About Me
 
-Developer from Lahore, Pakistan focused on machine learning and building APIs. Currently building my ML portfolio — regression models, time-series forecasting, and REST APIs from scratch.
+Developer from Lahore, Pakistan focused on machine learning and building APIs. Currently building my ML portfolio:  regression models, time-series forecasting, and REST APIs from scratch.
 
 ---
 
